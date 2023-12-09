@@ -23,10 +23,9 @@ Identify sales patterns and track key performance indicators (KPIs) to gain acti
 ## Role of Reports :
 
 Reports play a crucial role in:
-
-     - Determining effective customer discounts.
-     - Facilitating negotiations with consumers.
-     - Identifying potential business expansion opportunities in promising countries.
+  Determining effective customer discounts.
+  Facilitating negotiations with consumers.
+  Identifying potential business expansion opportunities in promising countries.
 
 ## Technical Skills:
 
