@@ -3,14 +3,14 @@
 
 - **1.Create a Customer Performance Report:**
   
-     - **** Utilize sales data to generate a comprehensive report on _[customer performance](https://github.com/ankitsingh279110/Excel-Sales_Analytics/blob/main/Customer%20Net%20Sales%20Performance.pdf)_
-     - **** Evaluate net sales performance across the years 2019, 2020, and 2021.
+     - Utilize sales data to generate a comprehensive report on _[customer performance](https://github.com/ankitsingh279110/Excel-Sales_Analytics/blob/main/Customer%20Net%20Sales%20Performance.pdf)_
+     - Evaluate net sales performance across the years 2019, 2020, and 2021.
 
 - **2.Conduct a Comprehensive Comparison between Market Performance and Sales Targets:**
 
-     - [x] Analyze market performance against predefined sales targets _[market performance and sales targets](https://github.com/ankitsingh279110/Excel-Sales_Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)_
+- [x] Analyze market performance against predefined sales targets _[market performance and sales targets](https://github.com/ankitsingh279110/Excel-Sales_Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)_
 
-     - [x] Identify countries where sales targets were achieved, providing valuable insights for strategic decision-making.
+- [x] Identify countries where sales targets were achieved, providing valuable insights for strategic decision-making.
 
 ## Purpose of Sales Analytics :
 
@@ -24,9 +24,9 @@ Identify sales patterns and track key performance indicators (KPIs) to gain acti
 
 Reports play a crucial role in:
 
-      - [x] Determining effective customer discounts.
-      - [x] Facilitating negotiations with consumers.
-      - [x] Identifying potential business expansion opportunities in promising countries.
+- [x] Determining effective customer discounts.
+- [x] Facilitating negotiations with consumers.
+- [x] Identifying potential business expansion opportunities in promising countries.
 
 ## Technical Skills:
 
