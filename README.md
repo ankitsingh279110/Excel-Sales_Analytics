@@ -1,14 +1,14 @@
 ## Sales Report :
 
 
-- **1.Create a Customer Performance Report:**
+- **1. Create a Customer Performance Report:**
   
      - Utilize sales data to generate a comprehensive report on _[customer performance](https://github.com/ankitsingh279110/Excel-Sales_Analytics/blob/main/Customer%20Net%20Sales%20Performance.pdf)_
      - Evaluate net sales performance across the years 2019, 2020, and 2021.
 
-- **2.Conduct a Comprehensive Comparison between Market Performance and Sales Targets:**
+- **2. Conduct a Comprehensive Comparison between Market Performance and Sales Targets:**
 
-     - Analyze market performance against predefined sales targets _[market performance and sales targets](https://github.com/ankitsingh279110/Excel-Sales_Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)_
+     - Analyze market performance against predefined sales targets _[market performance vs sales targets](https://github.com/ankitsingh279110/Excel-Sales_Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)_
 
      - Identify countries where sales targets were achieved, providing valuable insights for strategic decision-making.
 
