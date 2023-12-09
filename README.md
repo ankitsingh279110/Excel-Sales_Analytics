@@ -8,9 +8,9 @@
 
 - **2.Conduct a Comprehensive Comparison between Market Performance and Sales Targets:**
 
-- [x] Analyze market performance against predefined sales targets _[market performance and sales targets](https://github.com/ankitsingh279110/Excel-Sales_Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)_
+     - Analyze market performance against predefined sales targets _[market performance and sales targets](https://github.com/ankitsingh279110/Excel-Sales_Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)_
 
-- [x] Identify countries where sales targets were achieved, providing valuable insights for strategic decision-making.
+     - Identify countries where sales targets were achieved, providing valuable insights for strategic decision-making.
 
 ## Purpose of Sales Analytics :
 
@@ -24,9 +24,9 @@ Identify sales patterns and track key performance indicators (KPIs) to gain acti
 
 Reports play a crucial role in:
 
-- [x] Determining effective customer discounts.
-- [x] Facilitating negotiations with consumers.
-- [x] Identifying potential business expansion opportunities in promising countries.
+      - Determining effective customer discounts.
+      - Facilitating negotiations with consumers.
+      - Identifying potential business expansion opportunities in promising countries.
 
 ## Technical Skills:
 
